@@ -1,0 +1,2 @@
+javac -d . *.java
+(Create packages as well as complies corresponding to each  .java file)

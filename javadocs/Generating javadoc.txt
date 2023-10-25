@@ -1,0 +1,7 @@
+Open powershell in the directory containing source file
+->	javadoc -author -version <filename>.java
+
+To generate docs for enitire package
+Make sure source files are in the package folder
+Open powershell in the directory containing package folder
+->	javadoc -author -version <packagename>
