@@ -1,0 +1,9 @@
+*.pdf
+*.jpeg
+*.jpg
+*.png
+*.class
+*.md
+.vscode
+bin
+lib

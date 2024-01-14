@@ -1,0 +1,7 @@
+1. Make sure .class file is available
+	If not : Write 'javac <App name>.java'
+	compilation will take place
+2. Open powershell window in the folder that containes the desired .class file
+3. Write 'java <App name>'
+	interpretation of bytecode will take place
+4. Press enter
